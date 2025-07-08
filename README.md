@@ -163,4 +163,4 @@ After improving from the other models and achieving the incredible accuracy of 9
 ## Important Note
 
 The models are all named in the same format: 'modelname'.py
-All other files including any combination of the model name is related to the training save files.
+All other files including any combination of the model names are related to the training save files.
