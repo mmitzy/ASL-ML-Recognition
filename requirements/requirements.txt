@@ -1,0 +1,31 @@
+# ASL Recognition Project Requirements
+# Main dependencies for training and evaluation
+
+# Core Deep Learning Framework
+torch>=1.8.0
+torchvision>=0.9.0
+
+# Scientific Computing
+numpy>=1.21.0
+
+# Image Processing
+Pillow>=8.0.0
+opencv-python>=4.5.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+joblib>=1.0.0
+
+# Data Visualization
+matplotlib>=3.3.0
+
+# Progress Bars
+tqdm>=4.60.0
+
+# Additional Standard Libraries (usually included with Python)
+# os - built-in
+# time - built-in  
+# sys - built-in
+# collections - built-in
+
+# Note: This excludes demo-specific requirements which are in requirements_demo.txt
