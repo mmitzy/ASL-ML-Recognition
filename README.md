@@ -13,7 +13,7 @@ and a variety of machine learning (ML) models. The goal is to explore the data t
 - [Machine Learning Models](#machine-learning-models)
 - [Getting Started](#getting-started)
 - [Results and Evaluation](#results-and-evaluation)
-- [Demo](#Demo)
+- [Bonus](#Bonus)
 - [Conclusions](#conclusions)
 - [Important Note](#important-note)
 
