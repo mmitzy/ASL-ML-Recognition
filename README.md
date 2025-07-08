@@ -146,7 +146,7 @@ Each model was evaluated using metrics such as accuracy, precision, recall, and 
 ## Bonus
 
 In order to truly test the model in action, we made a demo where you can try to make complete sentences using the ASL.
-- Model uses ensemble learning in order to split the weight between models.
+- The demo uses ensemble learning in order to split the weight between models.
 - Can input images manually
 - Can input images using a webcam
 
