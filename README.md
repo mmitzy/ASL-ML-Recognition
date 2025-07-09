@@ -127,7 +127,7 @@ Each model was evaluated using metrics such as accuracy, precision, recall, and 
 
 ## FFNN
 ![image](https://github.com/user-attachments/assets/9541f02e-eb38-40cd-95b5-09bec4a3aad5)
-![image](https://github.com/user-attachments/assets/920a283d-58e7-4405-a0b1-218c25706d79)
+![image](https://github.com/user-attachments/assets/6ce6a95f-662e-40c2-9649-569d2f6aff7c)
 
 ## Logistic Regression
 ![image](https://github.com/user-attachments/assets/f33b1662-2399-4f00-a393-33adc6372b62)
