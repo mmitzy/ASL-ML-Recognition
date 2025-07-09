@@ -96,7 +96,7 @@ Each model’s architecture, training process, and evaluation metrics are detail
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/mmitzy/ASL-Recognition.git
+   git clone https://github.com/mmitzy/ASL-ML-Recognition.git
    cd ASL-Recognition
    ```
 
