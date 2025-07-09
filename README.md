@@ -5,6 +5,7 @@ and a variety of machine learning (ML) models. The goal is to explore the data t
 
 ## Table of Contents
 
+- [Motivation](#Motivation)
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
 - [Project Structure](#project-structure)
@@ -16,6 +17,14 @@ and a variety of machine learning (ML) models. The goal is to explore the data t
 - [Bonus](#Bonus)
 - [Conclusions](#conclusions)
 - [Important Note](#important-note)
+
+
+## Motivation
+
+Our goals are the following:
+- **1:** Train the model to classify the ASL dataset with high accuracy.
+- **2:** Use ensemble learning in order to classify complete sentences with close to a 100% accuracy.
+- **3:** Discover which of the models is capable of achieving the best results.
 
 
 ## Project Overview
@@ -157,8 +166,7 @@ In order to truly test the model in action, we made a demo where you can try to 
 
 ## Conclusions
 
-After improving from the other models and achieving the incredible accuracy of 99% using CNN, we understood that our hypothesis is probably correct. Of course 1 example isn't enough to determine such a big question, but due to the usage of a very big dataset (consisting of 84k+ images) we believe that it's very likely that we are right.
-
+This project set out to explore the potential of machine learning models in accurately recognizing American Sign Language. We successfully trained models to classify individual ASL letters with high accuracy, and demonstrated the effectiveness of ensemble learning in improving sentence-level classification, moving closer to our goal of near-perfect accuracy. Through experimentation, we also identified which models performed best, providing valuable insights for future improvements. These results highlight the promise of combining strong base models with ensemble techniques to tackle complex language recognition tasks.
 
 ## Important Note
 
