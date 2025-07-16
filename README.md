@@ -170,6 +170,5 @@ This project set out to explore the potential of machine learning models in accu
 
 ## Important Note
 
-
 The models are all named in the same format: 'modelname'.py
 All other files including any combination of the model names are related to the training save files.
