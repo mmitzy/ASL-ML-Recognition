@@ -132,7 +132,8 @@ Each model was evaluated using metrics such as accuracy, precision, recall, and 
 
 ## Logistic Regression
 ![image](https://github.com/user-attachments/assets/f33b1662-2399-4f00-a393-33adc6372b62)
-![image](https://github.com/user-attachments/assets/e116a3f4-76a1-4e1d-9741-8d665b028744)
+<img width="1288" height="998" alt="image" src="https://github.com/user-attachments/assets/b165a484-3c5b-45e0-ae70-a9cd2718ebfc" />
+
 
 ## KNN
 ![image](https://github.com/user-attachments/assets/564a2098-293d-423a-affa-21dc81223343)
