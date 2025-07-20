@@ -123,7 +123,8 @@ Each model was evaluated using metrics such as accuracy, precision, recall, and 
 ## CNN
 ![image](https://github.com/user-attachments/assets/1b8b8358-b9ad-4fad-a1bb-37bbac560ab7)
 <img width="1152" height="660" alt="image" src="https://github.com/user-attachments/assets/a621d83e-4154-48e7-a181-c1f3795bbcdb" />
-![image](https://github.com/user-attachments/assets/a2d4271f-ca7d-4135-8553-fc0e20f65567)
+<img width="1296" height="1011" alt="image" src="https://github.com/user-attachments/assets/b6e6bd59-0b57-4206-830c-b1365b3c66a1" />
+
 
 ## FFNN
 ![image](https://github.com/user-attachments/assets/9541f02e-eb38-40cd-95b5-09bec4a3aad5)
